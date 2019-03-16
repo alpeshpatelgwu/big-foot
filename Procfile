@@ -1,1 +1,1 @@
-web: gunicorn big_foot_pesh.app:app
+web: gunicorn app:app
